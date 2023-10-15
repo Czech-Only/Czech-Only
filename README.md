@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azril :D
 - 👀 I’m interested in Programming :)
-- 🌱 I’m currently learning Basic language :D
+- 🌱 I’m currently learning Basic Language :D
 - 💞️ I’m looking to collaborate on a project
 - 📫 You can reach me on my telegram --> @Czech_40
 
